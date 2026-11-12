@@ -1,0 +1,3 @@
+; registro dei codici deploy: codice a 8 cifre casuali = URL del deploy
+; si genera con: php bin/nuovo-codice.php https://deploy/
+; 12345678 = https://esempio.invalid/

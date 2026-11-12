@@ -1,0 +1,3 @@
+etc/deploy.ini
+var/
+*.log
